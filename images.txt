@@ -1,2 +1,2 @@
-whyour/qinglong:debian
+whyour/qinglong:2.18.1
 
