@@ -1,2 +1,2 @@
-pch18/baota:lnmp
+arm64-variant/whyour/qinglong:2.18
 
