@@ -1,1 +1,2 @@
-stilleshan/frpc:0.61.2
+tiptime/ttnode:latest
+
