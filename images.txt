@@ -1,1 +1,1 @@
-amd64/whyour/qinglong:latest
+whyour/qinglong:latest@sha256:5e397c6dff64a6522cd21128abd954bbd96c72073f30495644dc90adebc16253
