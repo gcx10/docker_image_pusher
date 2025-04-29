@@ -1,1 +1,2 @@
-whyour/qinglong:latest@sha256:5e397c6dff64a6522cd21128abd954bbd96c72073f30495644dc90adebc16253
+whyour/qinglong:latest@sha256:0647792775df9983cee083a747f9e1229ebc7aee286d2df65b95c341ada6a9ca
+whyour/qinglong:2.18@sha256:1970c8125fe82d5c15b1daf6b21a1df82d5ef747aa4793308b61e4cfabfd200c
