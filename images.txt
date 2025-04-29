@@ -1,2 +1,2 @@
-tiptime/ttnode:latest
-
+whyour/qinglong:latest
+whyour/qinglong:debian
