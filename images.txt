@@ -1,1 +1,1 @@
-whyour/qinglong:2.18@sha256:996308d15121aa3220cc3d7ca3ff58814f5d3f33b3029d4e8114ba7b915a84f5
+btpanel/baota:latest
